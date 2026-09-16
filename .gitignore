@@ -1,0 +1,4 @@
+# Ignore unrelated folders
+geoverse-3d/
+__pycache__/
+*.pyc
